@@ -4,3 +4,5 @@
 - 📊 Work experience in **advanced analytics, consulting, and market analysis**
 - 🌍 Spent **2 academic years abroad**, in France (high school) and Canada (university)
 - 💫 Looking for any opportunities to learn more about **software engineering, data science and machine learning** 
+
+[GitLab](https://gitlab.liu.se/benas022) profile for school projects in Sweden
